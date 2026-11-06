@@ -1,0 +1,635 @@
+{
+  "users": {
+    "customers": {
+      "0400000001": {
+        "contact": {
+          "name": "Alice Smith",
+          "phone": "0400000001",
+          "email": "alice@example.com"
+        },
+        "phone": "0400000001",
+        "email": "alice@example.com",
+        "id": "0400000001",
+        "name": "",
+        "role": "Customer"
+      }
+    },
+    "staff": {
+      "O-001": {
+        "kind": "office",
+        "id": "O-001",
+        "name": "Office Staff 1",
+        "role": "OfficeStaff"
+      },
+      "D-001": {
+        "kind": "driver",
+        "active": true,
+        "id": "D-001",
+        "name": "Dave Driver",
+        "role": "DeliveryStaff"
+      },
+      "D-002": {
+        "kind": "driver",
+        "active": true,
+        "id": "D-002",
+        "name": "Dan Driver",
+        "role": "DeliveryStaff"
+      },
+      "D-003": {
+        "kind": "driver",
+        "active": true,
+        "id": "D-003",
+        "name": "Diana Driver",
+        "role": "DeliveryStaff"
+      }
+    },
+    "availabilities": [
+      {
+        "driverId": "D-001",
+        "period": {
+          "start": "2026-11-06T08:00:00",
+          "end": "2026-11-06T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-002",
+        "period": {
+          "start": "2026-11-06T08:00:00",
+          "end": "2026-11-06T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-003",
+        "period": {
+          "start": "2026-11-06T08:00:00",
+          "end": "2026-11-06T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-001",
+        "period": {
+          "start": "2026-11-07T08:00:00",
+          "end": "2026-11-07T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-002",
+        "period": {
+          "start": "2026-11-07T08:00:00",
+          "end": "2026-11-07T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-001",
+        "period": {
+          "start": "2026-11-08T08:00:00",
+          "end": "2026-11-08T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-002",
+        "period": {
+          "start": "2026-11-08T08:00:00",
+          "end": "2026-11-08T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-003",
+        "period": {
+          "start": "2026-11-08T08:00:00",
+          "end": "2026-11-08T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-001",
+        "period": {
+          "start": "2026-11-09T08:00:00",
+          "end": "2026-11-09T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-002",
+        "period": {
+          "start": "2026-11-09T08:00:00",
+          "end": "2026-11-09T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-001",
+        "period": {
+          "start": "2026-11-10T08:00:00",
+          "end": "2026-11-10T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-002",
+        "period": {
+          "start": "2026-11-10T08:00:00",
+          "end": "2026-11-10T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-003",
+        "period": {
+          "start": "2026-11-10T08:00:00",
+          "end": "2026-11-10T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-001",
+        "period": {
+          "start": "2026-11-11T08:00:00",
+          "end": "2026-11-11T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-002",
+        "period": {
+          "start": "2026-11-11T08:00:00",
+          "end": "2026-11-11T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-001",
+        "period": {
+          "start": "2026-11-12T08:00:00",
+          "end": "2026-11-12T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-002",
+        "period": {
+          "start": "2026-11-12T08:00:00",
+          "end": "2026-11-12T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-003",
+        "period": {
+          "start": "2026-11-12T08:00:00",
+          "end": "2026-11-12T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-001",
+        "period": {
+          "start": "2026-11-13T08:00:00",
+          "end": "2026-11-13T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-002",
+        "period": {
+          "start": "2026-11-13T08:00:00",
+          "end": "2026-11-13T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-001",
+        "period": {
+          "start": "2026-11-14T08:00:00",
+          "end": "2026-11-14T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-002",
+        "period": {
+          "start": "2026-11-14T08:00:00",
+          "end": "2026-11-14T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-003",
+        "period": {
+          "start": "2026-11-14T08:00:00",
+          "end": "2026-11-14T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-001",
+        "period": {
+          "start": "2026-11-15T08:00:00",
+          "end": "2026-11-15T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-002",
+        "period": {
+          "start": "2026-11-15T08:00:00",
+          "end": "2026-11-15T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-001",
+        "period": {
+          "start": "2026-11-16T08:00:00",
+          "end": "2026-11-16T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-002",
+        "period": {
+          "start": "2026-11-16T08:00:00",
+          "end": "2026-11-16T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-003",
+        "period": {
+          "start": "2026-11-16T08:00:00",
+          "end": "2026-11-16T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-001",
+        "period": {
+          "start": "2026-11-17T08:00:00",
+          "end": "2026-11-17T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-002",
+        "period": {
+          "start": "2026-11-17T08:00:00",
+          "end": "2026-11-17T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-001",
+        "period": {
+          "start": "2026-11-18T08:00:00",
+          "end": "2026-11-18T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-002",
+        "period": {
+          "start": "2026-11-18T08:00:00",
+          "end": "2026-11-18T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-003",
+        "period": {
+          "start": "2026-11-18T08:00:00",
+          "end": "2026-11-18T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-001",
+        "period": {
+          "start": "2026-11-19T08:00:00",
+          "end": "2026-11-19T18:00:00"
+        }
+      },
+      {
+        "driverId": "D-002",
+        "period": {
+          "start": "2026-11-19T08:00:00",
+          "end": "2026-11-19T18:00:00"
+        }
+      }
+    ]
+  },
+  "registry": {
+    "counter": 4,
+    "requests": {
+      "YOW-0001": {
+        "ref": "YOW-0001",
+        "customerPhone": "0400000001",
+        "senderContact": {
+          "name": "Alice Smith",
+          "phone": "0400000001",
+          "email": "alice@example.com"
+        },
+        "pickupAddress": {
+          "street": "100 Flinders St",
+          "suburb": "Melbourne",
+          "state": "VIC",
+          "postcode": "3000"
+        },
+        "pickupDate": "2026-11-06",
+        "pickupTime": "10:00",
+        "recipient": {
+          "contact": {
+            "name": "Jane Smith",
+            "phone": "0411222333",
+            "email": "jane@example.com"
+          },
+          "address": {
+            "street": "50 Lygon St",
+            "suburb": "Carlton",
+            "state": "VIC",
+            "postcode": "3053"
+          }
+        },
+        "parcels": [
+          {
+            "spec": {
+              "description": "Art supplies",
+              "weightKg": 4,
+              "lengthCm": 25,
+              "widthCm": 25,
+              "heightCm": 15
+            },
+            "mismatch": false,
+            "mismatchNote": ""
+          }
+        ],
+        "quotes": [
+          {
+            "amount": 15,
+            "strategy": "Standard",
+            "status": "accepted",
+            "overrideReason": "Pice changes."
+          }
+        ],
+        "assignments": [
+          {
+            "driverId": "D-001",
+            "assignedAt": "2026-11-06 23:28:29",
+            "active": true,
+            "reassignmentReason": ""
+          }
+        ],
+        "payments": [],
+        "history": [
+          {
+            "stateName": "Requested",
+            "timestamp": "2026-11-06 23:17:12",
+            "actor": "0400000001",
+            "note": "Delivery request logged"
+          },
+          {
+            "stateName": "Quoted",
+            "timestamp": "2026-11-06 23:23:07",
+            "actor": "office",
+            "note": "Quote issued: $15.00 (Standard) [Override: Pice changes.]"
+          },
+          {
+            "stateName": "Accepted",
+            "timestamp": "2026-11-06 23:23:36",
+            "actor": "0400000001",
+            "note": "Customer accepted quote ($15.00)"
+          },
+          {
+            "stateName": "Assigned",
+            "timestamp": "2026-11-06 23:28:29",
+            "actor": "office",
+            "note": "Allocated to driver D-001"
+          }
+        ],
+        "state": "Assigned"
+      },
+      "YOW-0002": {
+        "ref": "YOW-0002",
+        "customerPhone": "0400000001",
+        "senderContact": {
+          "name": "Alice Smith",
+          "phone": "0400000001",
+          "email": "alice@example.com"
+        },
+        "pickupAddress": {
+          "street": "100 Flinders St",
+          "suburb": "Southbank",
+          "state": "VIC",
+          "postcode": "3000"
+        },
+        "pickupDate": "2026-11-06",
+        "pickupTime": "11:00",
+        "recipient": {
+          "contact": {
+            "name": "John Smith",
+            "phone": "0411222333",
+            "email": ""
+          },
+          "address": {
+            "street": "50 Lygon St",
+            "suburb": "Carlton",
+            "state": "VIC",
+            "postcode": "3053"
+          }
+        },
+        "parcels": [
+          {
+            "spec": {
+              "description": "Art supplies",
+              "weightKg": 4,
+              "lengthCm": 25,
+              "widthCm": 25,
+              "heightCm": 15
+            },
+            "mismatch": false,
+            "mismatchNote": ""
+          }
+        ],
+        "quotes": [
+          {
+            "amount": 20,
+            "strategy": "Standard",
+            "status": "open",
+            "overrideReason": ""
+          }
+        ],
+        "assignments": [],
+        "payments": [],
+        "history": [
+          {
+            "stateName": "Requested",
+            "timestamp": "2026-11-06 23:22:12",
+            "actor": "0400000001",
+            "note": "Delivery request logged"
+          },
+          {
+            "stateName": "Quoted",
+            "timestamp": "2026-11-06 23:26:25",
+            "actor": "office",
+            "note": "Quote issued: $20.00 (Standard)"
+          }
+        ],
+        "state": "Quoted"
+      },
+      "YOW-0003": {
+        "ref": "YOW-0003",
+        "customerPhone": "0400000001",
+        "senderContact": {
+          "name": "Alice Smith",
+          "phone": "0400000001",
+          "email": "alice@example.com"
+        },
+        "pickupAddress": {
+          "street": "10 Bourke St",
+          "suburb": "Melbourne",
+          "state": "VIC",
+          "postcode": "3000"
+        },
+        "pickupDate": "2026-11-06",
+        "pickupTime": "10:00",
+        "recipient": {
+          "contact": {
+            "name": "John Smith",
+            "phone": "0400000001",
+            "email": ""
+          },
+          "address": {
+            "street": "3001",
+            "suburb": "d",
+            "state": "VIC",
+            "postcode": "3001"
+          }
+        },
+        "parcels": [
+          {
+            "spec": {
+              "description": "Box of book",
+              "weightKg": 6,
+              "lengthCm": 50,
+              "widthCm": 50,
+              "heightCm": 100
+            },
+            "mismatch": false,
+            "mismatchNote": ""
+          }
+        ],
+        "quotes": [
+          {
+            "amount": 37.5,
+            "strategy": "Express",
+            "status": "accepted",
+            "overrideReason": ""
+          }
+        ],
+        "assignments": [
+          {
+            "driverId": "D-001",
+            "assignedAt": "2026-11-06 23:27:53",
+            "active": false,
+            "reassignmentReason": "Sick Leave"
+          },
+          {
+            "driverId": "D-002",
+            "assignedAt": "2026-11-06 23:29:31",
+            "active": true,
+            "reassignmentReason": ""
+          }
+        ],
+        "payments": [],
+        "history": [
+          {
+            "stateName": "Requested",
+            "timestamp": "2026-11-06 23:25:24",
+            "actor": "0400000001",
+            "note": "Delivery request logged"
+          },
+          {
+            "stateName": "Quoted",
+            "timestamp": "2026-11-06 23:26:46",
+            "actor": "office",
+            "note": "Quote issued: $37.50 (Express)"
+          },
+          {
+            "stateName": "Accepted",
+            "timestamp": "2026-11-06 23:27:34",
+            "actor": "0400000001",
+            "note": "Customer accepted quote ($37.50)"
+          },
+          {
+            "stateName": "Assigned",
+            "timestamp": "2026-11-06 23:27:53",
+            "actor": "office",
+            "note": "Allocated to driver D-001"
+          },
+          {
+            "stateName": "Assigned",
+            "timestamp": "2026-11-06 23:29:31",
+            "actor": "office",
+            "note": "Reassigned to D-002: Sick Leave"
+          }
+        ],
+        "state": "Assigned"
+      }
+    }
+  },
+  "notifications": {
+    "inboxes": {
+      "office": [
+        {
+          "title": "New Delivery Request Logged",
+          "message": "Request YOW-0001 logged by customer 0400000001.",
+          "timestamp": "2026-11-06 23:17:12"
+        },
+        {
+          "title": "New Delivery Request Logged",
+          "message": "Request YOW-0002 logged by customer 0400000001.",
+          "timestamp": "2026-11-06 23:22:12"
+        },
+        {
+          "title": "Quote Accepted",
+          "message": "Customer accepted quote for request YOW-0001.",
+          "timestamp": "2026-11-06 23:23:36"
+        },
+        {
+          "title": "New Delivery Request Logged",
+          "message": "Request YOW-0003 logged by customer 0400000001.",
+          "timestamp": "2026-11-06 23:25:24"
+        },
+        {
+          "title": "Quote Accepted",
+          "message": "Customer accepted quote for request YOW-0003.",
+          "timestamp": "2026-11-06 23:27:34"
+        }
+      ],
+      "0400000001": [
+        {
+          "title": "Quote Issued",
+          "message": "A quote has been issued for request YOW-0001.",
+          "timestamp": "2026-11-06 23:23:07"
+        },
+        {
+          "title": "Quote Issued",
+          "message": "A quote has been issued for request YOW-0002.",
+          "timestamp": "2026-11-06 23:26:25"
+        },
+        {
+          "title": "Quote Issued",
+          "message": "A quote has been issued for request YOW-0003.",
+          "timestamp": "2026-11-06 23:26:46"
+        },
+        {
+          "title": "Driver Assigned",
+          "message": "Driver D-001 has been assigned to delivery YOW-0003.",
+          "timestamp": "2026-11-06 23:27:53"
+        },
+        {
+          "title": "Driver Assigned",
+          "message": "Driver D-001 has been assigned to delivery YOW-0001.",
+          "timestamp": "2026-11-06 23:28:29"
+        },
+        {
+          "title": "Driver Assigned",
+          "message": "Driver D-002 has been assigned to delivery YOW-0003.",
+          "timestamp": "2026-11-06 23:29:31"
+        }
+      ],
+      "D-001": [
+        {
+          "title": "New Job Assigned",
+          "message": "You have been assigned to delivery YOW-0003.",
+          "timestamp": "2026-11-06 23:27:53"
+        },
+        {
+          "title": "New Job Assigned",
+          "message": "You have been assigned to delivery YOW-0001.",
+          "timestamp": "2026-11-06 23:28:29"
+        }
+      ],
+      "D-002": [
+        {
+          "title": "New Job Assigned",
+          "message": "You have been assigned to delivery YOW-0003.",
+          "timestamp": "2026-11-06 23:29:31"
+        }
+      ]
+    }
+  }
+}

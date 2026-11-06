@@ -1,0 +1,14 @@
+D:\Repos\FUCKME\DmsDemo\obj\Debug\net8.0\DmsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\FUCKME\DmsDemo\obj\Debug\net8.0\DmsDemo.AssemblyInfoInputs.cache
+D:\Repos\FUCKME\DmsDemo\obj\Debug\net8.0\DmsDemo.AssemblyInfo.cs
+D:\Repos\FUCKME\DmsDemo\obj\Debug\net8.0\DmsDemo.csproj.CoreCompileInputs.cache
+D:\Repos\FUCKME\DmsDemo\bin\Debug\net8.0\DmsDemo.exe
+D:\Repos\FUCKME\DmsDemo\bin\Debug\net8.0\DmsDemo.deps.json
+D:\Repos\FUCKME\DmsDemo\bin\Debug\net8.0\DmsDemo.runtimeconfig.json
+D:\Repos\FUCKME\DmsDemo\bin\Debug\net8.0\DmsDemo.dll
+D:\Repos\FUCKME\DmsDemo\bin\Debug\net8.0\DmsDemo.pdb
+D:\Repos\FUCKME\DmsDemo\obj\Debug\net8.0\DmsDemo.dll
+D:\Repos\FUCKME\DmsDemo\obj\Debug\net8.0\refint\DmsDemo.dll
+D:\Repos\FUCKME\DmsDemo\obj\Debug\net8.0\DmsDemo.pdb
+D:\Repos\FUCKME\DmsDemo\obj\Debug\net8.0\DmsDemo.genruntimeconfig.cache
+D:\Repos\FUCKME\DmsDemo\obj\Debug\net8.0\ref\DmsDemo.dll
