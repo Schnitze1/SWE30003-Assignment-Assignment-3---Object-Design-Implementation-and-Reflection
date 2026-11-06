@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\FUCKME\\DmsDemo.Tests\\DmsDemo.Tests.csproj": {}
+    "D:\\Repos\\FUCKME\\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\\DmsDemo.Tests\\DmsDemo.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\FUCKME\\DmsDemo.Tests\\DmsDemo.Tests.csproj": {
+    "D:\\Repos\\FUCKME\\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\\DmsDemo.Tests\\DmsDemo.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\FUCKME\\DmsDemo.Tests\\DmsDemo.Tests.csproj",
+        "projectUniqueName": "D:\\Repos\\FUCKME\\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\\DmsDemo.Tests\\DmsDemo.Tests.csproj",
         "projectName": "DmsDemo.Tests",
-        "projectPath": "D:\\Repos\\FUCKME\\DmsDemo.Tests\\DmsDemo.Tests.csproj",
+        "projectPath": "D:\\Repos\\FUCKME\\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\\DmsDemo.Tests\\DmsDemo.Tests.csproj",
         "packagesPath": "C:\\Users\\Shadd\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\FUCKME\\DmsDemo.Tests\\obj\\",
+        "outputPath": "D:\\Repos\\FUCKME\\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\\DmsDemo.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Repos\\FUCKME\\DmsDemo\\DmsDemo.csproj": {
-                "projectPath": "D:\\Repos\\FUCKME\\DmsDemo\\DmsDemo.csproj"
+              "D:\\Repos\\FUCKME\\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\\DmsDemo\\DmsDemo.csproj": {
+                "projectPath": "D:\\Repos\\FUCKME\\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\\DmsDemo\\DmsDemo.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "D:\\Repos\\FUCKME\\DmsDemo\\DmsDemo.csproj": {
+    "D:\\Repos\\FUCKME\\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\\DmsDemo\\DmsDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\FUCKME\\DmsDemo\\DmsDemo.csproj",
+        "projectUniqueName": "D:\\Repos\\FUCKME\\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\\DmsDemo\\DmsDemo.csproj",
         "projectName": "DmsDemo",
-        "projectPath": "D:\\Repos\\FUCKME\\DmsDemo\\DmsDemo.csproj",
+        "projectPath": "D:\\Repos\\FUCKME\\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\\DmsDemo\\DmsDemo.csproj",
         "packagesPath": "C:\\Users\\Shadd\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\FUCKME\\DmsDemo\\obj\\",
+        "outputPath": "D:\\Repos\\FUCKME\\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\\DmsDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

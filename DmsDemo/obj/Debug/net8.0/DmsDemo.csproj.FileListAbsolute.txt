@@ -12,3 +12,18 @@ D:\Repos\FUCKME\DmsDemo\obj\Debug\net8.0\refint\DmsDemo.dll
 D:\Repos\FUCKME\DmsDemo\obj\Debug\net8.0\DmsDemo.pdb
 D:\Repos\FUCKME\DmsDemo\obj\Debug\net8.0\DmsDemo.genruntimeconfig.cache
 D:\Repos\FUCKME\DmsDemo\obj\Debug\net8.0\ref\DmsDemo.dll
+D:\Repos\FUCKME\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\DmsDemo\bin\Debug\net8.0\DmsDemo.exe
+D:\Repos\FUCKME\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\DmsDemo\bin\Debug\net8.0\DmsDemo.deps.json
+D:\Repos\FUCKME\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\DmsDemo\bin\Debug\net8.0\DmsDemo.runtimeconfig.json
+D:\Repos\FUCKME\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\DmsDemo\bin\Debug\net8.0\DmsDemo.dll
+D:\Repos\FUCKME\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\DmsDemo\bin\Debug\net8.0\DmsDemo.pdb
+D:\Repos\FUCKME\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\DmsDemo\obj\Debug\net8.0\DmsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\FUCKME\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\DmsDemo\obj\Debug\net8.0\DmsDemo.AssemblyInfoInputs.cache
+D:\Repos\FUCKME\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\DmsDemo\obj\Debug\net8.0\DmsDemo.AssemblyInfo.cs
+D:\Repos\FUCKME\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\DmsDemo\obj\Debug\net8.0\DmsDemo.csproj.CoreCompileInputs.cache
+D:\Repos\FUCKME\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\DmsDemo\obj\Debug\net8.0\DmsDemo.sourcelink.json
+D:\Repos\FUCKME\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\DmsDemo\obj\Debug\net8.0\DmsDemo.dll
+D:\Repos\FUCKME\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\DmsDemo\obj\Debug\net8.0\refint\DmsDemo.dll
+D:\Repos\FUCKME\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\DmsDemo\obj\Debug\net8.0\DmsDemo.pdb
+D:\Repos\FUCKME\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\DmsDemo\obj\Debug\net8.0\DmsDemo.genruntimeconfig.cache
+D:\Repos\FUCKME\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\DmsDemo\obj\Debug\net8.0\ref\DmsDemo.dll

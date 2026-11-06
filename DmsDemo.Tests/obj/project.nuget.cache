@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r8+Aj8+h+z4=",
+  "dgSpecHash": "GhHRLQre6Ns=",
   "success": true,
-  "projectFilePath": "D:\\Repos\\FUCKME\\DmsDemo.Tests\\DmsDemo.Tests.csproj",
+  "projectFilePath": "D:\\Repos\\FUCKME\\SWE30003 Assignment Assignment 3 - Object Design Implementation and Reflection\\DmsDemo.Tests\\DmsDemo.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shadd\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
     "C:\\Users\\Shadd\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\microsoft.net.test.sdk.17.10.0.nupkg.sha512",
